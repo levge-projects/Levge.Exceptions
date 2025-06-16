@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36203.30 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Levge.Exceptions", "Levge.Exceptions.csproj", "{A92F499A-D436-4CEB-B52F-A1C9D49D970D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A92F499A-D436-4CEB-B52F-A1C9D49D970D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A92F499A-D436-4CEB-B52F-A1C9D49D970D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A92F499A-D436-4CEB-B52F-A1C9D49D970D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A92F499A-D436-4CEB-B52F-A1C9D49D970D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1033324B-8129-424C-8F2E-DCE95949D50A}
+	EndGlobalSection
+EndGlobal
