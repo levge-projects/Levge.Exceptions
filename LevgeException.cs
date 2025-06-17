@@ -2,6 +2,11 @@
 {
     public class LevgeException : Exception
     {
+        public LevgeException() : base()
+        {
+
+        }
+
         public LevgeException(string message) : base(message)
         {
 
